@@ -13,8 +13,8 @@ This laboratory activity demonstrates **signal transmission using waveguides**. 
 
 ---
 **Waveguide Parts**  
-`![Waveguide Types](waveguide1.jpg)`
-`![Waveguide Types](waveguide2.jpg)`
+![Waveguide Types](waveguide1.jpg)
+![Waveguide Types](waveguide2.jpg)
 ## Waveguide Parts and Their Functions
 
 1. **Waveguide Body (Main Conductor)**  
