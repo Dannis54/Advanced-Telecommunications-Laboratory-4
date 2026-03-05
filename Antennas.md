@@ -2,7 +2,7 @@
 
 This laboratory report provides an in-depth discussion on **antenna systems**, including **transmission and reception modules**, **principles of antenna operation**, and a detailed overview of **different types of antennas** used in communications and RF systems. Antennas are crucial for converting electrical signals to **electromagnetic waves** for transmission and vice versa for reception.
 ## Procedure
-![Antenna Transmission/Reception Setup](setup.png)
+![Antenna Transmission/Reception Setup](setup.png.jpg)
 ### Step 1 – Setting Up the Transmission Module
 
 1. Connect the **signal source** to the **transmitting antenna** using coaxial cables.  
@@ -188,11 +188,11 @@ The **reception module** captures EM waves and converts them to electrical signa
 - **Description**: Multiple dipoles stacked vertically.  
 - **Applications**: Base stations, repeaters.  
 - **Characteristics**: High gain in horizontal plane; omnidirectional in azimuth.  
-![Antenna Types](examples1.png)
-![Antenna Types](examples2.png)
-![Antenna Types](examples3.png)
-![Antenna Types](examples4.png)
-![Antenna Types](examples5.png)
+![Antenna Types](examples1.png.jpg)
+![Antenna Types](examples2.png.jpg)
+![Antenna Types](examples3.png.jpg)
+![Antenna Types](examples4.png.jpg)
+![Antenna Types](examples5.png.jpg)
 ---
 
 ## Key Parameters Summary
